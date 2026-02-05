@@ -87,3 +87,8 @@ O machine learning permite transformar dados em informações úteis para apoiar
 ---
 
 Este repositório representa meu primeiro contato com os conceitos básicos de Machine Learning e faz parte do meu processo de formação na área de tecnologia.
+
+## Status da atividade  
+✔ Atividade concluída  
+✔ Branch: `ativ-01`  
+✔ Entregue para avaliação em: 05/02/2026
