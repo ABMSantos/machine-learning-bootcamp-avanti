@@ -95,7 +95,7 @@ print(df["idade"])
 print("\nIdade maior que 30:")
 print(df[df["idade"] > 30])
 
-df["idade"].fillna(media, inplace=True)
+df["idade"] = df["idade"].fillna(media)
 
 print("\nApós preencher valores vazios:")
 print(df)
